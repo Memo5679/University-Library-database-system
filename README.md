@@ -1,0 +1,2 @@
+# University-Library-database-system
+Database management information system to help users at the administration level of the library easily viewing/tracking various information about Persons who got visited or admitted to the library as well as information about books (such as Number of books, location of books, etc..), Publishers, and other staffs in different departments in administration level of the library.
